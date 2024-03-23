@@ -54,6 +54,12 @@ abstract class AppStyles
       fontWeight: FontWeight.w400,
       fontFamily: 'inter'
   );
+  static TextStyle style12= const TextStyle(
+      color: Colors.black,
+      fontSize: 12,
+      fontWeight: FontWeight.w500,
+      fontFamily: 'inter'
+  );
 
 
 
